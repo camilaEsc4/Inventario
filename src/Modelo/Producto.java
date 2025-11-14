@@ -1,4 +1,4 @@
-package modelo;
+package Modelo;
 
 public class Producto{
     /*si dfssd*/
@@ -6,7 +6,7 @@ public class Producto{
     private String nombre;
     private String sku;
     private int cantidad;
-    private double Precio;
+    private double precio;
 
     public Producto(String nombre, String sku, int cantidad, double precio){
        this.nombre = nombre;
