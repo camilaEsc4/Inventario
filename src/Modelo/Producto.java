@@ -1,7 +1,7 @@
 package Modelo;
 
 public class Producto{
-    /*si dfssd*/
+    /*si inventario*/
 
     private String nombre;
     private String sku;
