@@ -1,6 +1,6 @@
-package vista;
+package Vista;
 
-import modelo.Producto;
+import Modelo.Producto;
 import java.util.List;
 import java.util.Scanner;
 
